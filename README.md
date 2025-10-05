@@ -1,4 +1,4 @@
-#### ![Welcome Gif](https://media1.tenor.com/m/Yaw0_KdRD_gAAAAC/footer.gif)
+#### ![https://media1.tenor.com/m/Yaw0_KdRD_gAAAAC/footer.gif](https://i.pinimg.com/736x/02/29/c6/0229c60961884a1f4b39ce68ebe05e60.jpg)
 # ☢️ Welcome Aboard mam/sir!:
 🔭 Hi! my name is Kevin Mattieu Sanjaya<br>🎓 I was a Senior highschool student's <br>👯 U can call me "Memet" or "Kevin"<br>🌱 Right now i try to learn about Java, Javascript and a little bit of C++<br>🤝 I can work with team and try to learn together!<br>
 
