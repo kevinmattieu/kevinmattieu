@@ -1,4 +1,4 @@
-## Hello! Welcome Aboard sir to my Github ✨
+## Hello! Welcome Aboard on here✨
 
 <!--
 **kevinmattieu/kevinmattieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🌱 I’m currently learning Java and some C++
+- 
 [![KevinMat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinmattieu)](https://github.com/kevinmattieu/github-readme-stats)
