@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I was a Senior highschool student's and goes to College<br>🌱 Right now i try to learn about Java, Javascript and a litttle bit of C++<br>🤝 I can work with team and try to learn together!<br>👯 U can call me "Memet" or "Kevin"<br>
+🔭 I was a Senior highschool student's and goes to College<br>🌱 Right now i try to learn about Java, Javascript and a little bit of C++<br>🤝 I can work with team and try to learn together!<br>👯 U can call me "Memet" or "Kevin"<br>
 
 
 ## 🌐 Socials:
