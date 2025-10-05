@@ -1,4 +1,4 @@
-#### ![https://media1.tenor.com/m/Yaw0_KdRD_gAAAAC/footer.gif](https://i.pinimg.com/736x/02/29/c6/0229c60961884a1f4b39ce68ebe05e60.jpg)
+#### !(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdyaTVnZjVkeWd4aDIyb2tqczFhZGo1NmxxZ2cxbjZ2czN2ZWJzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)
 # ☢️ Welcome Aboard mam/sir!:
 🔭 Hi! my name is Kevin Mattieu Sanjaya<br>🎓 I was a Senior highschool student's <br>👯 U can call me "Memet" or "Kevin"<br>🌱 Right now i try to learn about Java, Javascript and a little bit of C++<br>🤝 I can work with team and try to learn together!<br>
 
