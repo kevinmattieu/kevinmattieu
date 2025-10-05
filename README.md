@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Java and some C++
-- 
+  
 [![KevinMat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinmattieu)](https://github.com/kevinmattieu/github-readme-stats)
