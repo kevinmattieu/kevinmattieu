@@ -1,4 +1,4 @@
-#### ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFmYjJudWd5YmY5NWh1YWpqNG91Z2ljb2sxbjloOWszZzF3MGdsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXd5YtB6mjLHkXQOhd/giphy.gif)
+#### ![Welcome Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFmYjJudWd5YmY5NWh1YWpqNG91Z2ljb2sxbjloOWszZzF3MGdsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXd5YtB6mjLHkXQOhd/giphy.gif)
 # ☢️ Welcome Aboard mam/sir!:
 🔭 Hi! my name is Kevin Mattieu Sanjaya<br>🎓 I was a Senior highschool student's <br>👯 U can call me "Memet" or "Kevin"<br>🌱 Right now i try to learn about Java, Javascript and a little bit of C++<br>🤝 I can work with team and try to learn together!<br>
 
