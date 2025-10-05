@@ -15,6 +15,3 @@ $\left( \frac{5^2 + 4^2}{3} \right) \cdot \sqrt{36} + \left( \frac{18}{3} \right
 ---
 
 [![](https://visitcount.itsvg.in/api?id=kevinmattieu&icon=2&color=0)](https://visitcount.itsvg.in)
-
-```stl solid cube_corner facet normal 0.0 -1.0 0.0 outer loop vertex 0.0 0.0 0.0 vertex 1.0 0.0 0.0 vertex 0.0 0.0 1.0 endloop endfacet facet normal 0.0 0.0 -1.0 outer loop  vertex 0.0 0.0 0.0 vertex 0.0 1.0 0.0  vertex 1.0 0.0 0.0 endloop endfacet facet normal -1.0 0.0 0.0 outer loop vertex 0.0 0.0 0.0 vertex 0.0 0.0 1.0 vertex 0.0 1.0 0.0 endloop endfacet facet normal 0.577 0.577 0.577 outer loop vertex 1.0 0.0 0.0 vertex 0.0 1.0 0.0 vertex 0.0 0.0 1.0 endloop endfacet endsolid
-```
