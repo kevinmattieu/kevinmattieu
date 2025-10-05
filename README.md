@@ -1,7 +1,5 @@
 # ☢️ Welcome Aboard mam/sir!:
 🔭 Hi! my name is Kevin Mattieu Sanjaya<br>🎓 I was a Senior highschool student's <br>👯 U can call me "Memet" or "Kevin"<br>🌱 Right now i try to learn about Java, Javascript and a little bit of C++<br>🤝 I can work with team and try to learn together!<br>
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikevinnnn.ms) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinmattieu/) 
 
 # 💻 Tech Stack:
