@@ -2,7 +2,7 @@
 # ☢️ Welcome Aboard mam/sir!:
 🔭 Hi! my name is Kevin Mattieu Sanjaya<br>🎓 I was a Senior highschool student's <br>👯 U can call me "Memet" or "Kevin"<br>🌱 Right now i try to learn about Java, Javascript and a little bit of C++<br>🤝 I can work with team and try to learn together!<br>
 
-Can u solve it? i think u can tho hehe:
+Can u solve it? i think u can tho hehe :
 $\left( \frac{5^2 + 4^2}{3} \right) \cdot \sqrt{36} + \left( \frac{18}{3} \right) - 5?$
 
 
