@@ -1,9 +1,6 @@
 #### ![Alt img](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdyaTVnZjVkeWd4aDIyb2tqczFhZGo1NmxxZ2cxbjZ2czN2ZWJzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)
 # ☢️ Welcome :
-🔭 Hi! my name is Kevin Mattieu Sanjaya<br>👯 U can call me "Memet" or "Kevin"<br>🌱 Right now i try to learn about Java, Javascript and a little bit of C++<br>🤝 I can work with team and try to learn together!<br>
-
-Can u solve it? i think u can tho hehe :
-$\left( \frac{5^2 + 4^2}{3} \right) \cdot \sqrt{36} + \left( \frac{18}{3} \right) - 5?$
+ Hi! my name is Kevin Mattieu Sanjaya<br> U can call me "Memet" or "Kevin"<br> Right now i try to learn about Java, Javascript and a little bit of C++<br>I can work with team and try to learn together!<br>
 
 > [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikevinnnn.ms)<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinmattieu/)<br>[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ikevinms_17)
 
