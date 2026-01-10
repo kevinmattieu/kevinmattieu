@@ -1,7 +1,7 @@
 #### 
 ![Header](./mybanner.png)
 # Success! Here's your Downloaded File :
- Hi! my name is Kevin Mattieu Sanjaya<br> U can call me "Memet" or "Kevin"<br> Right now i try to learn about Java, Javascript and a little bit of C++<br>I can work with team and try to learn together!<br>
+ Hi! my name is Kevin Mattieu Sanjaya<br> U can call me "Memet" or "Kevin"<br> Right now i try to learn about Java, Javascript and a little bit of C++
 
 [![Instagram](https://img.icons8.com/?size=35&id=32323&format=png&color=000000)](https://instagram.com/ikevinnnn.ms) [![LinkedIn](https://img.icons8.com/?size=35&id=13930&format=png&color=000000)](https://www.linkedin.com/in/kevinmattieu/) [![X](https://img.icons8.com/?size=35&id=hHgWf9QXX9GA&format=png&color=000000)](https://x.com/@ikevinms_17)
 
