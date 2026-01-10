@@ -3,7 +3,7 @@
 # ☢️ Welcome :
  Hi! my name is Kevin Mattieu Sanjaya<br> U can call me "Memet" or "Kevin"<br> Right now i try to learn about Java, Javascript and a little bit of C++<br>I can work with team and try to learn together!<br>
 
-> [![Instagram](https://img.icons8.com/?size=35&id=32323&format=png&color=000000)](https://instagram.com/ikevinnnn.ms)<br>[![LinkedIn](https://img.icons8.com/?size=35&id=13930&format=png&color=000000)](https://www.linkedin.com/in/kevinmattieu/)<br>[![X](https://img.icons8.com/?size=35&id=01GWmP9aUoPj&format=png&color=000000)](https://x.com/@ikevinms_17)
+[![Instagram](https://img.icons8.com/?size=35&id=32323&format=png&color=000000)](https://instagram.com/ikevinnnn.ms)<br>[![LinkedIn](https://img.icons8.com/?size=35&id=13930&format=png&color=000000)](https://www.linkedin.com/in/kevinmattieu/)<br>[![X](https://img.icons8.com/?size=35&id=01GWmP9aUoPj&format=png&color=000000)](https://x.com/@ikevinms_17)
 
 ![Alt img](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdyaTVnZjVkeWd4aDIyb2tqczFhZGo1NmxxZ2cxbjZ2czN2ZWJzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)
 
