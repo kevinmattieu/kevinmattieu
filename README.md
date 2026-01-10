@@ -1,5 +1,5 @@
 #### 
-![Header](./bannerpelik.png)
+![Header](./mybanner.png)
 # ☢️ Welcome :
  Hi! my name is Kevin Mattieu Sanjaya<br> U can call me "Memet" or "Kevin"<br> Right now i try to learn about Java, Javascript and a little bit of C++<br>I can work with team and try to learn together!<br>
 
