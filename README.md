@@ -1,7 +1,7 @@
 #### 
 ![Header](./mybanner.png)
 # Success!!! Here's your Downloaded File :
- Hi! my name is **Kevin Mattieu Sanjaya**<br> U can call me **"Memet"** or **"Kevin"**<br>i'am New here!
+ Hi! my name is **Kevin Mattieu Sanjaya**<br> U can call me **"Memet"** or **"Kevin"**<br>
 
 ![Alt img](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdyaTVnZjVkeWd4aDIyb2tqczFhZGo1NmxxZ2cxbjZ2czN2ZWJzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)
 
