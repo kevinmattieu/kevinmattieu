@@ -1,5 +1,5 @@
 #### 
-![Header](./mybanner.png)
+![Header](./banner.png)
 # Nuclear Radiations Area :
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&duration=2500&pause=800&color=00F72E&background=FF000000&vCenter=true&width=1280&height=100&lines=Hello+there!;My+name+is+Kevin+;or+u+also+know+me+as+Keorn+or+Fena*;Have+u+heard+about+it+before%3F)](https://git.io/typing-svg)
 
